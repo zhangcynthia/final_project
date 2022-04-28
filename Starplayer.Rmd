@@ -1,0 +1,50 @@
+```{r}
+library(readr)
+library(ggplot2)
+library(dplyr)
+library(tidyverse)
+library(readr)
+library(dplyr)
+NBAdata <- read_csv("NBAdataOSD.csv")
+
+```
+
+```{r}
+#Data is on foreign player numbers and it's influence on W/L ratio for NBA teams.
+#Data is collected from https://pr.nba.com/ and https://www.basketball-reference.com/. 
+```
+
+```{r,fig.alt="a graph showing correlation between number of foreign players in a team and their win and lose ratio categorized by their team type (offense or defense)"}
+NBAplayers<-read_csv("https://raw.githubusercontent.com/fivethirtyeight/data/master/nba-raptor/modern_RAPTOR_by_team.csv")
+
+NBAteams <- read_csv("NBAdataOSD.csv") %>%
+  select(team, team_type, season)
+  
+
+starplayers<-NBAplayers %>% 
+  group_by(season) %>% 
+  inner_join(NBAteams, by = c("team", "season")) %>%
+  slice_max(raptor_total,prop = 0.05) %>%
+  group_by(team, season) %>%
+  summarise(NumberofStars = n(),team_type) %>% 
+  group_by(team_type,season) %>% 
+  mutate(mean_players=mean(NumberofStars))
+
+starplayers %>%
+ggplot(aes(x = season, y = mean_players, color = team_type))+
+geom_point()+
+  geom_line()
+
+starplayers %>%
+ggplot(aes(x = team_type, y = mean_players))+
+geom_boxplot(varwidth = TRUE) +
+theme_minimal()
+
+```
+```
+```
+
+
+
+
+

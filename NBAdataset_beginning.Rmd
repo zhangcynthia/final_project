@@ -1,0 +1,39 @@
+```{r}
+library(tidyverse)
+NBAdata <- read_csv("NBAdata.csv")
+NBAdataOSD <- read_csv("NBAdataOSD.csv")
+```
+
+```{r}
+#Data is on foreign player numbers and it's influence on W/L ratio for NBA teams.
+#Data is collected from https://pr.nba.com/ and https://www.basketball-reference.com/. 
+```
+
+
+```{r, fig.width = 8, fig.height = 5}
+NBAdataOSD %>% 
+  group_by(season,team_type) %>% 
+  mutate(total_mean=mean(win_lose_ratio)) %>% 
+  ggplot(aes(x=`season`,y=`total_mean`,color=team_type))+
+  geom_line()+
+  scale_x_continuous(breaks=2011:2021) +
+  scale_color_discrete(name="Team Type",
+                      breaks=c("O", "S", "D"),
+                      labels=c("Offense", "Swing", "Defense")) +
+  labs(title="Figure 2:Win-Loss Ratio Comparision between Offense and Defense Team",
+       x="",
+       y="W/L ratio") +
+  theme(panel.grid.major.x = element_blank())
+
+```
+
+git link:https://github.com/SandyYZhao/NBA-project/blob/main/NBAdataset_beginning.Rmd
+
+
+```{r}
+NBAdata %>%
+  ggplot(aes(x = NetRtg, y = `W/L Ratio`)) +
+  geom_point() +
+  labs(x = "Net Rating (Offense Rating - Defense Rating)", title = "Figure 1: Association Between Win-Loss Ratio and Net Rating")
+```
+

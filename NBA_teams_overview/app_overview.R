@@ -25,6 +25,7 @@ server <- function(input, output) {
         geom_line() +
         scale_x_continuous(breaks=2011:2021) +
         labs(title="Team Performance Overview") +
+        theme(panel.grid.major.x = element_blank()) +
         theme(plot.title = element_text(hjust = 0.5,colour = "black", face = "bold",
                                         size = 14, vjust = 1)
     )})

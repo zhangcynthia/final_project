@@ -1,0 +1,331 @@
+n,team,state,team_full,season,Wins,Losses,win_lose_ratio,Net Wins,ORtg,DRtg,netrtg,Rel ORtg,Rel DRtg,location,team_type,team_logo
+30,WAS,district of colombia,Washington Wizards,2021,34,38,0.89,-4,111.2,113,-1.8,-1.1,0.7,E,D,logos/Washington Wizards.jpg
+60,WAS,district of colombia,Washington Wizards,2020,25,47,0.53,-22,110.9,115.5,-4.6,0.3,4.9,E,D,logos/Washington Wizards.jpg
+90,WAS,district of colombia,Washington Wizards,2019,32,50,0.64,-18,111.1,113.9,-2.8,0.7,3.5,E,D,logos/Washington Wizards.jpg
+120,WAS,district of colombia,Washington Wizards,2018,43,39,1.1,4,109.3,108.7,0.6,0.7,0.1,E,S,logos/Washington Wizards.jpg
+150,WAS,district of colombia,Washington Wizards,2017,49,33,1.48,16,111.2,109.3,1.9,2.4,0.5,E,O,logos/Washington Wizards.jpg
+180,WAS,district of colombia,Washington Wizards,2016,41,41,1,0,105.3,105.8,-0.5,-1.1,-0.6,E,S,logos/Washington Wizards.jpg
+210,WAS,district of colombia,Washington Wizards,2015,46,36,1.28,10,103.7,103,0.7,-1.9,-2.6,E,S,logos/Washington Wizards.jpg
+240,WAS,district of colombia,Washington Wizards,2014,44,38,1.16,6,106,104.6,1.4,-0.7,-2.1,E,S,logos/Washington Wizards.jpg
+270,WAS,district of colombia,Washington Wizards,2013,29,53,0.55,-24,100.2,103,-2.8,-5.7,-2.9,E,D,logos/Washington Wizards.jpg
+300,WAS,district of colombia,Washington Wizards,2012,20,46,0.43,-26,101,106.2,-5.2,-3.6,1.6,E,S,logos/Washington Wizards.jpg
+330,WAS,district of colombia,Washington Wizards,2011,23,59,0.39,-36,102.4,110.2,-7.8,-5.2,2.9,E,D,logos/Washington Wizards.jpg
+29,UTA,utah,Utah Jazz,2021,52,20,2.6,32,117.6,108.3,9.3,5.3,-4,W,O,logos/Utah Jazz.jpg
+59,UTA,utah,Utah Jazz,2020,44,28,1.57,16,112.3,109.9,2.4,1.7,-0.7,W,O,logos/Utah Jazz.jpg
+89,UTA,utah,Utah Jazz,2019,50,32,1.56,18,110.9,105.7,5.2,0.5,-4.7,W,O,logos/Utah Jazz.jpg
+119,UTA,utah,Utah Jazz,2018,48,34,1.41,14,108.4,103.9,4.5,-0.2,-4.7,W,O,logos/Utah Jazz.jpg
+149,UTA,utah,Utah Jazz,2017,51,31,1.65,20,109.6,105.3,4.3,0.8,-3.5,W,O,logos/Utah Jazz.jpg
+179,UTA,utah,Utah Jazz,2016,40,42,0.95,-2,105.9,103.9,2,-0.5,-2.5,W,O,logos/Utah Jazz.jpg
+209,UTA,utah,Utah Jazz,2015,38,44,0.86,-6,105.1,104.9,0.2,-0.5,-0.7,W,S,logos/Utah Jazz.jpg
+239,UTA,utah,Utah Jazz,2014,25,57,0.44,-32,103.5,111.3,-7.8,-3.2,4.6,W,D,logos/Utah Jazz.jpg
+269,UTA,utah,Utah Jazz,2013,43,39,1.1,4,106.7,106.8,-0.1,0.8,0.9,W,S,logos/Utah Jazz.jpg
+299,UTA,utah,Utah Jazz,2012,36,30,1.2,6,106.8,106.1,0.7,2.2,1.5,W,S,logos/Utah Jazz.jpg
+329,UTA,utah,Utah Jazz,2011,39,43,0.91,-4,108.1,110.1,-2,0.5,2.8,W,S,logos/Utah Jazz.jpg
+28,TOR,OH CANADA ,Toronto Raptors,2021,27,45,0.6,-18,112,112.5,-0.5,-0.3,0.2,E,S,logos/Toronto Raptors.jpg
+58,TOR,OH CANADA ,Toronto Raptors,2020,53,19,2.79,34,111.1,105,6.1,0.5,-5.6,E,O,logos/Toronto Raptors.jpg
+88,TOR,OH CANADA ,Toronto Raptors,2019,58,24,2.42,34,113.1,107.1,6,2.7,-3.3,E,O,logos/Toronto Raptors.jpg
+118,TOR,OH CANADA ,Toronto Raptors,2018,59,23,2.57,36,113.8,105.9,7.9,5.2,-2.7,E,O,logos/Toronto Raptors.jpg
+148,TOR,OH CANADA ,Toronto Raptors,2017,51,31,1.65,20,112.3,107.8,4.5,3.5,-1,E,O,logos/Toronto Raptors.jpg
+178,TOR,OH CANADA ,Toronto Raptors,2016,56,26,2.15,30,110,105.2,4.8,3.6,-1.2,E,O,logos/Toronto Raptors.jpg
+208,TOR,OH CANADA ,Toronto Raptors,2015,49,33,1.48,16,111,107.7,3.3,5.4,2.1,E,O,logos/Toronto Raptors.jpg
+238,TOR,OH CANADA ,Toronto Raptors,2014,48,34,1.41,14,108.8,105.3,3.5,2.1,-1.4,E,O,logos/Toronto Raptors.jpg
+268,TOR,OH CANADA ,Toronto Raptors,2013,34,48,0.71,-14,105.9,107.5,-1.6,0,1.6,E,S,logos/Toronto Raptors.jpg
+298,TOR,OH CANADA ,Toronto Raptors,2012,23,43,0.53,-20,100.8,104.5,-3.7,-3.8,-0.1,E,S,logos/Toronto Raptors.jpg
+328,TOR,OH CANADA ,Toronto Raptors,2011,22,60,0.37,-38,106.1,112.9,-6.8,-1.5,5.6,E,D,logos/Toronto Raptors.jpg
+27,SAS,texas,San Antonio Spurs,2021,33,39,0.85,-6,111,112.8,-1.8,-1.3,0.5,W,D,logos/San Antonio Spurs.jpg
+57,SAS,texas,San Antonio Spurs,2020,32,39,0.82,-7,112.4,113.5,-1.1,1.8,2.9,W,S,logos/San Antonio Spurs.jpg
+87,SAS,texas,San Antonio Spurs,2019,48,34,1.41,14,112.9,111.2,1.7,2.5,0.8,W,S,logos/San Antonio Spurs.jpg
+117,SAS,texas,San Antonio Spurs,2018,47,35,1.34,12,107.9,104.8,3.1,-0.7,-3.8,W,O,logos/San Antonio Spurs.jpg
+147,SAS,texas,San Antonio Spurs,2017,61,21,2.9,40,111.1,103.5,7.6,2.3,-5.3,W,O,logos/San Antonio Spurs.jpg
+177,SAS,texas,San Antonio Spurs,2016,67,15,4.47,52,110.3,99,11.3,3.9,-7.4,W,O,logos/San Antonio Spurs.jpg
+207,SAS,texas,San Antonio Spurs,2015,55,27,2.04,28,108.5,102,6.5,2.9,-3.6,W,O,logos/San Antonio Spurs.jpg
+237,SAS,texas,San Antonio Spurs,2014,62,20,3.1,42,110.5,102.4,8.1,3.8,-4.3,W,O,logos/San Antonio Spurs.jpg
+267,SAS,texas,San Antonio Spurs,2013,58,24,2.42,34,108.3,101.6,6.7,2.4,-4.3,W,O,logos/San Antonio Spurs.jpg
+297,SAS,texas,San Antonio Spurs,2012,50,16,3.13,34,110.9,103.2,7.7,6.3,-1.4,W,D,logos/San Antonio Spurs.jpg
+327,SAS,texas,San Antonio Spurs,2011,61,21,2.9,40,111.8,105.6,6.2,4.2,-1.7,W,O,logos/San Antonio Spurs.jpg
+26,SAC,california,Sacramento Kings,2021,31,41,0.76,-10,113.6,117.2,-3.6,1.3,4.9,W,D,logos/Sacramento Kings.jpg
+56,SAC,california,Sacramento Kings,2020,31,41,0.76,-10,110.2,112.2,-2,-0.4,1.6,W,D,logos/Sacramento Kings.jpg
+86,SAC,california,Sacramento Kings,2019,39,43,0.91,-4,110.4,111.5,-1.1,0,1.1,W,S,logos/Sacramento Kings.jpg
+116,SAC,california,Sacramento Kings,2018,27,55,0.49,-28,103.7,111.1,-7.4,-4.9,2.5,W,D,logos/Sacramento Kings.jpg
+146,SAC,california,Sacramento Kings,2017,32,50,0.64,-18,107.3,111.3,-4,-1.5,2.5,W,D,logos/Sacramento Kings.jpg
+176,SAC,california,Sacramento Kings,2016,33,49,0.67,-16,106,108.4,-2.4,-0.4,2,W,D,logos/Sacramento Kings.jpg
+206,SAC,california,Sacramento Kings,2015,29,53,0.55,-24,105.3,109.2,-3.9,-0.3,3.6,W,D,logos/Sacramento Kings.jpg
+236,SAC,california,Sacramento Kings,2014,28,54,0.52,-26,105.7,108.8,-3.1,-1,2.1,W,D,logos/Sacramento Kings.jpg
+266,SAC,california,Sacramento Kings,2013,28,54,0.52,-26,106.2,111.4,-5.2,0.3,5.5,W,D,logos/Sacramento Kings.jpg
+296,SAC,california,Sacramento Kings,2012,22,44,0.5,-22,103.8,109.8,-6,-0.8,5.2,W,O,logos/Sacramento Kings.jpg
+326,SAC,california,Sacramento Kings,2011,24,58,0.41,-34,103.5,109,-5.5,-4.1,1.7,W,D,logos/Sacramento Kings.jpg
+25,POR,oregon,Portland Trail Blazers,2021,42,30,1.4,12,117.8,116,1.8,5.5,3.7,W,S,logos/Portland Trail Blazers.jpg
+55,POR,oregon,Portland Trail Blazers,2020,35,39,0.9,-4,113.7,114.8,-1.1,3.1,4.2,W,S,logos/Portland Trail Blazers.jpg
+85,POR,oregon,Portland Trail Blazers,2019,53,29,1.83,24,114.7,110.5,4.2,4.3,0.1,W,O,logos/Portland Trail Blazers.jpg
+115,POR,oregon,Portland Trail Blazers,2018,49,33,1.48,16,109.1,106.4,2.7,0.5,-2.2,W,O,logos/Portland Trail Blazers.jpg
+145,POR,oregon,Portland Trail Blazers,2017,41,41,1,0,110.3,110.8,-0.5,1.5,2,W,S,logos/Portland Trail Blazers.jpg
+175,POR,oregon,Portland Trail Blazers,2016,44,38,1.16,6,108.8,108,0.8,2.4,1.6,W,S,logos/Portland Trail Blazers.jpg
+205,POR,oregon,Portland Trail Blazers,2015,51,31,1.65,20,108.2,103.7,4.5,2.6,-1.9,W,O,logos/Portland Trail Blazers.jpg
+235,POR,oregon,Portland Trail Blazers,2014,54,28,1.93,26,111.5,107.4,4.1,4.8,0.7,W,O,logos/Portland Trail Blazers.jpg
+265,POR,oregon,Portland Trail Blazers,2013,33,49,0.67,-16,105.8,109.2,-3.4,-0.1,3.3,W,D,logos/Portland Trail Blazers.jpg
+295,POR,oregon,Portland Trail Blazers,2012,28,38,0.74,-10,105.7,106.4,-0.7,1.1,1.8,W,O,logos/Portland Trail Blazers.jpg
+325,POR,oregon,Portland Trail Blazers,2011,48,34,1.41,14,108.8,107.1,1.7,1.2,-0.2,W,S,logos/Portland Trail Blazers.jpg
+24,PHO,arizona,Phoenix Suns,2021,51,21,2.43,30,117.2,111.3,5.9,4.9,-1,W,O,logos/Phoenix Suns.jpg
+54,PHO,arizona,Phoenix Suns,2020,34,39,0.87,-5,111.7,111.4,0.3,1.1,0.8,W,S,logos/Phoenix Suns.jpg
+84,PHO,arizona,Phoenix Suns,2019,19,63,0.3,-44,105.9,115.1,-9.2,-4.5,4.7,W,D,logos/Phoenix Suns.jpg
+114,PHO,arizona,Phoenix Suns,2018,21,61,0.34,-40,103.5,112.8,-9.3,-5.1,4.2,W,D,logos/Phoenix Suns.jpg
+144,PHO,arizona,Phoenix Suns,2017,24,58,0.41,-34,106.6,112.2,-5.6,-2.2,3.4,W,D,logos/Phoenix Suns.jpg
+174,PHO,arizona,Phoenix Suns,2016,23,59,0.39,-36,102.2,109,-6.8,-4.2,2.6,W,D,logos/Phoenix Suns.jpg
+204,PHO,arizona,Phoenix Suns,2015,39,43,0.91,-4,105.3,106.2,-0.9,-0.3,0.6,W,S,logos/Phoenix Suns.jpg
+234,PHO,arizona,Phoenix Suns,2014,48,34,1.41,14,109.5,106.7,2.8,2.8,0,W,O,logos/Phoenix Suns.jpg
+264,PHO,arizona,Phoenix Suns,2013,25,57,0.44,-32,101.2,108.1,-6.9,-4.7,2.2,W,D,logos/Phoenix Suns.jpg
+294,PHO,arizona,Phoenix Suns,2012,33,33,1,0,106.2,106.5,-0.3,1.6,1.9,W,O,logos/Phoenix Suns.jpg
+324,PHO,arizona,Phoenix Suns,2011,40,42,0.95,-2,109.5,110.4,-0.9,1.9,3.1,W,S,logos/Phoenix Suns.jpg
+23,PHI,pennsylvania,Philadelphia 76ers,2021,49,23,2.13,26,113.2,107.6,5.6,0.9,-4.7,E,O,logos/Philadelphia 76ers.jpg
+53,PHI,pennsylvania,Philadelphia 76ers,2020,43,30,1.43,13,111.3,109,2.3,0.7,-1.6,E,O,logos/Philadelphia 76ers.jpg
+83,PHI,pennsylvania,Philadelphia 76ers,2019,51,31,1.65,20,112.6,110,2.6,2.2,-0.4,E,S,logos/Philadelphia 76ers.jpg
+113,PHI,pennsylvania,Philadelphia 76ers,2018,52,30,1.73,22,109.5,105,4.5,0.9,-3.6,E,O,logos/Philadelphia 76ers.jpg
+143,PHI,pennsylvania,Philadelphia 76ers,2017,28,54,0.52,-26,103.2,108.9,-5.7,-5.6,0.1,E,D,logos/Philadelphia 76ers.jpg
+173,PHI,pennsylvania,Philadelphia 76ers,2016,10,72,0.14,-62,98.8,109.2,-10.4,-7.6,2.8,E,D,logos/Philadelphia 76ers.jpg
+203,PHI,pennsylvania,Philadelphia 76ers,2015,18,64,0.28,-46,95.5,104.8,-9.3,-10.1,-0.8,E,D,logos/Philadelphia 76ers.jpg
+233,PHI,pennsylvania,Philadelphia 76ers,2014,19,63,0.3,-44,99.4,109.9,-10.5,-7.3,3.2,E,D,logos/Philadelphia 76ers.jpg
+263,PHI,pennsylvania,Philadelphia 76ers,2013,34,48,0.71,-14,102,105.7,-3.7,-3.9,-0.2,E,D,logos/Philadelphia 76ers.jpg
+293,PHI,pennsylvania,Philadelphia 76ers,2012,35,31,1.13,4,103.9,99.2,4.7,-0.7,-5.4,E,D,logos/Philadelphia 76ers.jpg
+323,PHI,pennsylvania,Philadelphia 76ers,2011,41,41,1,0,106.6,105,1.6,-1,-2.3,E,S,logos/Philadelphia 76ers.jpg
+22,ORL,florida,Orlando Magic,2021,21,51,0.41,-30,105.1,114.5,-9.4,-7.2,2.2,E,D,logos/Orlando Magic.jpg
+52,ORL,florida,Orlando Magic,2020,33,40,0.83,-7,108.5,109.5,-1,-2.1,-1.1,E,S,logos/Orlando Magic.jpg
+82,ORL,florida,Orlando Magic,2019,42,40,1.05,2,108.9,108.1,0.8,-1.5,-2.3,E,S,logos/Orlando Magic.jpg
+112,ORL,florida,Orlando Magic,2018,25,57,0.44,-32,105.2,110.1,-4.9,-3.4,1.5,E,D,logos/Orlando Magic.jpg
+142,ORL,florida,Orlando Magic,2017,29,53,0.55,-24,103.7,110.5,-6.8,-5.1,1.7,E,D,logos/Orlando Magic.jpg
+172,ORL,florida,Orlando Magic,2016,35,47,0.74,-12,105.1,106.8,-1.7,-1.3,0.4,E,S,logos/Orlando Magic.jpg
+202,ORL,florida,Orlando Magic,2015,25,57,0.44,-32,101.6,107.7,-6.1,-4,2.1,E,D,logos/Orlando Magic.jpg
+232,ORL,florida,Orlando Magic,2014,23,59,0.39,-36,101.7,107.4,-5.7,-5,0.7,E,D,logos/Orlando Magic.jpg
+262,ORL,florida,Orlando Magic,2013,20,62,0.32,-42,101.6,109.1,-7.5,-4.3,3.2,E,D,logos/Orlando Magic.jpg
+292,ORL,florida,Orlando Magic,2012,37,29,1.28,8,105,104.1,0.9,0.4,-0.5,E,S,logos/Orlando Magic.jpg
+322,ORL,florida,Orlando Magic,2011,52,30,1.73,22,107.9,102,5.9,0.3,-5.3,E,O,logos/Orlando Magic.jpg
+21,OKC,oklahoma,Oklahoma City Thunder,2021,22,50,0.44,-28,103.5,114,-10.5,-8.8,1.7,W,D,logos/Oklahoma City Thunder.jpg
+51,OKC,oklahoma,Oklahoma City Thunder,2020,44,28,1.57,16,110.8,108.8,2,0.2,-1.8,W,S,logos/Oklahoma City Thunder.jpg
+81,OKC,oklahoma,Oklahoma City Thunder,2019,49,33,1.48,16,110.3,107,3.3,-0.1,-3.4,W,O,logos/Oklahoma City Thunder.jpg
+111,OKC,oklahoma,Oklahoma City Thunder,2018,48,34,1.41,14,110.7,107.2,3.5,2.1,-1.4,W,O,logos/Oklahoma City Thunder.jpg
+141,OKC,oklahoma,Oklahoma City Thunder,2017,47,35,1.34,12,108.3,107.5,0.8,-0.5,-1.3,W,S,logos/Oklahoma City Thunder.jpg
+171,OKC,oklahoma,Oklahoma City Thunder,2016,55,27,2.04,28,113.1,105.6,7.5,6.7,-0.8,W,O,logos/Oklahoma City Thunder.jpg
+201,OKC,oklahoma,Oklahoma City Thunder,2015,45,37,1.22,8,107.8,105.5,2.3,2.2,-0.1,W,S,logos/Oklahoma City Thunder.jpg
+231,OKC,oklahoma,Oklahoma City Thunder,2014,59,23,2.57,36,110.5,103.9,6.6,3.8,-2.8,W,O,logos/Oklahoma City Thunder.jpg
+261,OKC,oklahoma,Oklahoma City Thunder,2013,60,22,2.73,38,112.4,102.6,9.8,6.5,-3.3,W,O,logos/Oklahoma City Thunder.jpg
+291,OKC,oklahoma,Oklahoma City Thunder,2012,47,19,2.47,28,109.8,103.2,6.6,5.2,-1.4,W,S,logos/Oklahoma City Thunder.jpg
+321,OKC,oklahoma,Oklahoma City Thunder,2011,55,27,2.04,28,111.2,107.2,4,3.6,-0.1,W,O,logos/Oklahoma City Thunder.jpg
+20,NYK,new york,New York Knicks,2021,41,31,1.32,10,110.6,108.2,2.4,-1.7,-4.1,E,S,logos/New York Knicks.jpg
+50,NYK,new york,New York Knicks,2020,21,45,0.47,-24,106.5,113,-6.5,-4.1,2.4,E,D,logos/New York Knicks.jpg
+80,NYK,new york,New York Knicks,2019,17,65,0.26,-48,104.5,113.7,-9.2,-5.9,3.3,E,D,logos/New York Knicks.jpg
+110,NYK,new york,New York Knicks,2018,29,53,0.55,-24,107.1,110.7,-3.6,-1.5,2.1,E,D,logos/New York Knicks.jpg
+140,NYK,new york,New York Knicks,2017,31,51,0.61,-20,107.7,111.5,-3.8,-1.1,2.7,E,D,logos/New York Knicks.jpg
+170,NYK,new york,New York Knicks,2016,32,50,0.64,-18,104.6,107.6,-3,-1.8,1.2,E,D,logos/New York Knicks.jpg
+200,NYK,new york,New York Knicks,2015,17,65,0.26,-48,99.9,110,-10.1,-5.7,4.4,E,D,logos/New York Knicks.jpg
+230,NYK,new york,New York Knicks,2014,37,45,0.82,-8,108.3,109.1,-0.8,1.6,2.4,E,S,logos/New York Knicks.jpg
+260,NYK,new york,New York Knicks,2013,54,28,1.93,26,111.1,106.3,4.8,5.2,0.4,E,O,logos/New York Knicks.jpg
+290,NYK,new york,New York Knicks,2012,36,30,1.2,6,104.4,101,3.4,-0.2,-3.6,E,D,logos/New York Knicks.jpg
+320,NYK,new york,New York Knicks,2011,42,40,1.05,2,110.9,110.1,0.8,3.3,2.8,E,S,logos/New York Knicks.jpg
+19,NOH,louisiana,New Orleans Pelicans,2021,31,41,0.76,-10,113.5,113.8,-0.3,1.2,1.5,W,S,logos/New Orleans Pelicans.jpg
+49,NOH,louisiana,New Orleans Pelicans,2020,30,42,0.71,-12,110.7,111.9,-1.2,0.1,1.3,W,S,logos/New Orleans Pelicans.jpg
+79,NOH,louisiana,New Orleans Pelicans,2019,33,49,0.67,-16,111.4,112.6,-1.2,1,2.2,W,S,logos/New Orleans Pelicans.jpg
+109,NOH,louisiana,New Orleans Pelicans,2018,48,34,1.41,14,109.6,108.3,1.3,1,-0.3,W,S,logos/New Orleans Pelicans.jpg
+139,NOH,louisiana,New Orleans Pelicans,2017,34,48,0.71,-14,105.2,107.4,-2.2,-3.6,-1.4,W,D,logos/New Orleans Pelicans.jpg
+169,NOH,louisiana,New Orleans Pelicans,2016,30,52,0.58,-22,105.6,109.5,-3.9,-0.8,3.1,W,D,logos/New Orleans Pelicans.jpg
+199,NOH,louisiana,New Orleans Pelicans,2015,45,37,1.22,8,108.2,107.3,0.9,2.6,1.7,W,S,logos/New Orleans Pelicans.jpg
+229,NOH,louisiana,New Orleans Pelicans,2014,34,48,0.71,-14,107.2,110.1,-2.9,0.5,3.4,W,D,logos/New Orleans Pelicans.jpg
+259,NOH,louisiana,New Orleans Pelicans,2013,27,55,0.49,-28,105.7,110.1,-4.4,-0.2,4.2,W,D,logos/New Orleans Pelicans.jpg
+289,NOH,louisiana,New Orleans Pelicans,2012,21,45,0.47,-24,100.9,105.1,-4.2,-3.7,0.5,W,S,logos/New Orleans Pelicans.jpg
+319,NOH,louisiana,New Orleans Pelicans,2011,46,36,1.28,10,106.2,105.2,1,-1.4,-2.1,W,S,logos/New Orleans Pelicans.jpg
+18,MIN,minnesota,Minnesota Timberwolves,2021,23,49,0.47,-26,109.5,115,-5.5,-2.8,2.7,W,D,logos/Minnesota Timberwolves.jpg
+48,MIN,minnesota,Minnesota Timberwolves,2020,19,45,0.42,-26,108.1,112.2,-4.1,-2.5,1.6,W,D,logos/Minnesota Timberwolves.jpg
+78,MIN,minnesota,Minnesota Timberwolves,2019,36,46,0.78,-10,111.4,112.9,-1.5,1,2.5,W,D,logos/Minnesota Timberwolves.jpg
+108,MIN,minnesota,Minnesota Timberwolves,2018,47,35,1.34,12,113.4,111.1,2.3,4.8,2.5,W,O,logos/Minnesota Timberwolves.jpg
+138,MIN,minnesota,Minnesota Timberwolves,2017,31,51,0.61,-20,110.8,112,-1.2,2,3.2,W,D,logos/Minnesota Timberwolves.jpg
+168,MIN,minnesota,Minnesota Timberwolves,2016,29,53,0.55,-24,106.5,110.1,-3.6,0.1,3.7,W,D,logos/Minnesota Timberwolves.jpg
+198,MIN,minnesota,Minnesota Timberwolves,2015,16,66,0.24,-50,102.9,112.2,-9.3,-2.7,6.6,W,D,logos/Minnesota Timberwolves.jpg
+228,MIN,minnesota,Minnesota Timberwolves,2014,40,42,0.95,-2,108.9,106.2,2.7,2.2,-0.5,W,S,logos/Minnesota Timberwolves.jpg
+258,MIN,minnesota,Minnesota Timberwolves,2013,31,51,0.61,-20,102.9,105.4,-2.5,-3,-0.5,W,S,logos/Minnesota Timberwolves.jpg
+288,MIN,minnesota,Minnesota Timberwolves,2012,22,44,0.5,-22,104.3,106.6,-2.3,-0.3,2,W,O,logos/Minnesota Timberwolves.jpg
+318,MIN,minnesota,Minnesota Timberwolves,2011,24,58,0.41,-34,104.2,111.1,-6.9,-3.4,3.8,W,D,logos/Minnesota Timberwolves.jpg
+17,MIL,wisconsin,Milwaukee Bucks,2021,46,26,1.77,20,117.2,111.4,5.8,4.9,-0.9,E,O,logos/Milwaukee Bucks.jpg
+47,MIL,wisconsin,Milwaukee Bucks,2020,56,17,3.29,39,112.4,102.9,9.5,1.8,-7.7,E,O,logos/Milwaukee Bucks.jpg
+77,MIL,wisconsin,Milwaukee Bucks,2019,60,22,2.73,38,113.8,105.2,8.6,3.4,-5.2,E,O,logos/Milwaukee Bucks.jpg
+107,MIL,wisconsin,Milwaukee Bucks,2018,44,38,1.16,6,109.8,110.1,-0.3,1.2,1.5,E,S,logos/Milwaukee Bucks.jpg
+137,MIL,wisconsin,Milwaukee Bucks,2017,42,40,1.05,2,109.1,109.3,-0.2,0.3,0.5,E,S,logos/Milwaukee Bucks.jpg
+167,MIL,wisconsin,Milwaukee Bucks,2016,33,49,0.67,-16,104.3,108.7,-4.4,-2.1,2.3,E,D,logos/Milwaukee Bucks.jpg
+197,MIL,wisconsin,Milwaukee Bucks,2015,41,41,1,0,102.7,102.2,0.5,-2.9,-3.4,E,S,logos/Milwaukee Bucks.jpg
+227,MIL,wisconsin,Milwaukee Bucks,2014,15,67,0.22,-52,103,111.8,-8.8,-3.7,5.1,E,D,logos/Milwaukee Bucks.jpg
+257,MIL,wisconsin,Milwaukee Bucks,2013,38,44,0.86,-6,103.6,105.2,-1.6,-2.3,-0.7,E,S,logos/Milwaukee Bucks.jpg
+287,MIL,wisconsin,Milwaukee Bucks,2012,26,40,0.65,-14,105.5,105.2,0.3,0.9,0.6,E,S,logos/Milwaukee Bucks.jpg
+317,MIL,wisconsin,Milwaukee Bucks,2011,17,65,0.26,-48,101.6,102.5,-0.9,-6,-4.8,E,S,logos/Milwaukee Bucks.jpg
+16,MIA,florida,Miami Heat,2021,40,32,1.25,8,111.2,111.2,0,-1.1,-1.1,E,S,logos/Miami Heat.jpg
+46,MIA,florida,Miami Heat,2020,44,29,1.52,15,112.5,109.5,3,1.9,-1.1,E,O,logos/Miami Heat.jpg
+76,MIA,florida,Miami Heat,2019,39,43,0.91,-4,107.3,107.6,-0.3,-3.1,-2.8,E,S,logos/Miami Heat.jpg
+106,MIA,florida,Miami Heat,2018,44,38,1.16,6,106.8,106.3,0.5,-1.8,-2.3,E,S,logos/Miami Heat.jpg
+136,MIA,florida,Miami Heat,2017,41,41,1,0,107.8,106.7,1.1,-1,-2.1,E,O,logos/Miami Heat.jpg
+166,MIA,florida,Miami Heat,2016,48,34,1.41,14,106.1,104.4,1.7,-0.3,-2,E,S,logos/Miami Heat.jpg
+196,MIA,florida,Miami Heat,2015,37,45,0.82,-8,103.9,106.7,-2.8,-1.7,1.1,E,D,logos/Miami Heat.jpg
+226,MIA,florida,Miami Heat,2014,54,28,1.93,26,110.9,105.8,5.1,4.2,-0.9,E,O,logos/Miami Heat.jpg
+256,MIA,florida,Miami Heat,2013,66,16,4.13,50,112.3,103.7,8.6,6.4,-2.2,E,O,logos/Miami Heat.jpg
+286,MIA,florida,Miami Heat,2012,31,35,0.89,-4,106.6,100.2,6.4,2,-4.4,E,D,logos/Miami Heat.jpg
+316,MIA,florida,Miami Heat,2011,35,47,0.74,-12,111.7,103.5,8.2,4.1,-3.8,E,O,logos/Miami Heat.jpg
+15,MEM,tennessee,Memphis Grizzlies,2021,38,34,1.12,4,112,111,1,-0.3,-1.3,W,S,logos/Memphis Grizzlies.jpg
+45,MEM,tennessee,Memphis Grizzlies,2020,34,39,0.87,-5,109.2,110.3,-1.1,-1.4,-0.3,W,S,logos/Memphis Grizzlies.jpg
+75,MEM,tennessee,Memphis Grizzlies,2019,33,49,0.67,-16,106.1,108.8,-2.7,-4.3,-1.6,W,D,logos/Memphis Grizzlies.jpg
+105,MEM,tennessee,Memphis Grizzlies,2018,22,60,0.37,-38,104.5,111,-6.5,-4.1,2.4,W,D,logos/Memphis Grizzlies.jpg
+135,MEM,tennessee,Memphis Grizzlies,2017,43,39,1.1,4,107.7,107.1,0.6,-1.1,-1.7,W,S,logos/Memphis Grizzlies.jpg
+165,MEM,tennessee,Memphis Grizzlies,2016,42,40,1.05,2,105.4,107.8,-2.4,-1,1.4,W,S,logos/Memphis Grizzlies.jpg
+195,MEM,tennessee,Memphis Grizzlies,2015,55,27,2.04,28,105.7,102.2,3.5,0.1,-3.4,W,O,logos/Memphis Grizzlies.jpg
+225,MEM,tennessee,Memphis Grizzlies,2014,50,32,1.56,18,106.3,104.6,1.7,-0.4,-2.1,W,S,logos/Memphis Grizzlies.jpg
+255,MEM,tennessee,Memphis Grizzlies,2013,56,26,2.15,30,104.9,100.3,4.6,-1,-5.6,W,O,logos/Memphis Grizzlies.jpg
+285,MEM,tennessee,Memphis Grizzlies,2012,46,20,2.3,26,104,101.8,2.2,-0.6,-2.8,W,D,logos/Memphis Grizzlies.jpg
+315,MEM,tennessee,Memphis Grizzlies,2011,58,24,2.42,34,107.6,105.1,2.5,0,-2.2,W,O,logos/Memphis Grizzlies.jpg
+14,LAL,california,Los Angeles Lakers,2021,42,30,1.4,12,109.9,107.1,2.8,-2.4,-5.2,W,O,logos/Los Angeles Lakers.jpg
+44,LAL,california,Los Angeles Lakers,2020,52,19,2.74,33,112,106.3,5.7,1.4,-4.3,W,O,logos/Los Angeles Lakers.jpg
+74,LAL,california,Los Angeles Lakers,2019,37,45,0.82,-8,107.8,109.5,-1.7,-2.6,-0.9,W,D,logos/Los Angeles Lakers.jpg
+104,LAL,california,Los Angeles Lakers,2018,35,47,0.74,-12,106.5,108,-1.5,-2.1,-0.6,W,D,logos/Los Angeles Lakers.jpg
+134,LAL,california,Los Angeles Lakers,2017,26,56,0.46,-30,106,113,-7,-2.8,4.2,W,D,logos/Los Angeles Lakers.jpg
+164,LAL,california,Los Angeles Lakers,2016,17,65,0.26,-48,101.6,111.6,-10,-4.8,5.2,W,D,logos/Los Angeles Lakers.jpg
+194,LAL,california,Los Angeles Lakers,2015,21,61,0.34,-40,103.4,110.6,-7.2,-2.2,5,W,D,logos/Los Angeles Lakers.jpg
+224,LAL,california,Los Angeles Lakers,2014,27,55,0.49,-28,104.2,110.6,-6.4,-2.5,3.9,W,D,logos/Los Angeles Lakers.jpg
+254,LAL,california,Los Angeles Lakers,2013,45,37,1.22,8,107.8,106.6,1.2,1.9,0.7,W,S,logos/Los Angeles Lakers.jpg
+284,LAL,california,Los Angeles Lakers,2012,41,25,1.64,16,106,104.4,1.6,1.4,-0.2,W,S,logos/Los Angeles Lakers.jpg
+314,LAL,california,Los Angeles Lakers,2011,46,36,1.28,10,111,104.3,6.7,3.4,-3,W,O,logos/Los Angeles Lakers.jpg
+13,LAC,california,Los Angeles Clippers,2021,47,25,1.88,22,117.6,111.2,6.4,5.3,-1.1,W,O,logos/Los Angeles Clippers.jpg
+43,LAC,california,Los Angeles Clippers,2020,49,23,2.13,26,113.9,107.6,6.3,3.3,-3,W,O,logos/Los Angeles Clippers.jpg
+73,LAC,california,Los Angeles Clippers,2019,48,34,1.41,14,112.4,111.5,0.9,2,1.1,W,S,logos/Los Angeles Clippers.jpg
+103,LAC,california,Los Angeles Clippers,2018,42,40,1.05,2,110.3,110.2,0.1,1.7,1.6,W,S,logos/Los Angeles Clippers.jpg
+133,LAC,california,Los Angeles Clippers,2017,51,31,1.65,20,112.7,108.2,4.5,3.9,-0.6,W,O,logos/Los Angeles Clippers.jpg
+163,LAC,california,Los Angeles Clippers,2016,53,29,1.83,24,108.3,103.8,4.5,1.9,-2.6,W,O,logos/Los Angeles Clippers.jpg
+193,LAC,california,Los Angeles Clippers,2015,56,26,2.15,30,112.4,105.5,6.9,6.8,-0.1,W,O,logos/Los Angeles Clippers.jpg
+223,LAC,california,Los Angeles Clippers,2014,57,25,2.28,32,112.1,104.8,7.3,5.4,-1.9,W,O,logos/Los Angeles Clippers.jpg
+253,LAC,california,Los Angeles Clippers,2013,56,26,2.15,30,110.6,103.6,7,4.7,-2.3,W,O,logos/Los Angeles Clippers.jpg
+283,LAC,california,Los Angeles Clippers,2012,41,25,1.64,16,108.5,105.7,2.8,3.9,1.1,W,S,logos/Los Angeles Clippers.jpg
+313,LAC,california,Los Angeles Clippers,2011,57,25,2.28,32,105.3,108.7,-3.4,-2.3,1.4,W,D,logos/Los Angeles Clippers.jpg
+12,IND,indiana,Indiana Pacers,2021,34,38,0.89,-4,112.4,112.4,0,0.1,0.1,E,S,logos/Indiana Pacers.jpg
+42,IND,indiana,Indiana Pacers,2020,45,28,1.61,17,110,108,2,-0.6,-2.6,E,S,logos/Indiana Pacers.jpg
+72,IND,indiana,Indiana Pacers,2019,48,34,1.41,14,109.9,106.5,3.4,-0.5,-3.9,E,O,logos/Indiana Pacers.jpg
+102,IND,indiana,Indiana Pacers,2018,48,34,1.41,14,109.5,108.1,1.4,0.9,-0.5,E,S,logos/Indiana Pacers.jpg
+132,IND,indiana,Indiana Pacers,2017,42,40,1.05,2,108.6,108.8,-0.2,-0.2,0,E,S,logos/Indiana Pacers.jpg
+162,IND,indiana,Indiana Pacers,2016,45,37,1.22,8,104.6,102.9,1.7,-1.8,-3.5,E,S,logos/Indiana Pacers.jpg
+192,IND,indiana,Indiana Pacers,2015,38,44,0.86,-6,103.5,103.2,0.3,-2.1,-2.4,E,S,logos/Indiana Pacers.jpg
+222,IND,indiana,Indiana Pacers,2014,56,26,2.15,30,104.1,99.3,4.8,-2.6,-7.4,E,O,logos/Indiana Pacers.jpg
+252,IND,indiana,Indiana Pacers,2013,49,32,1.53,17,104.3,99.8,4.5,-1.6,-6.1,E,O,logos/Indiana Pacers.jpg
+282,IND,indiana,Indiana Pacers,2012,40,26,1.54,14,106.7,103.1,3.6,2.1,-1.5,E,D,logos/Indiana Pacers.jpg
+312,IND,indiana,Indiana Pacers,2011,32,50,0.64,-18,104.8,106,-1.2,-2.8,-1.3,E,S,logos/Indiana Pacers.jpg
+11,HOU,texas,Houston Rockets,2021,17,55,0.31,-38,107.1,114.9,-7.8,-5.2,2.6,W,D,logos/Houston Rockets.jpg
+41,HOU,texas,Houston Rockets,2020,44,28,1.57,16,112.9,110.1,2.8,2.3,-0.5,W,O,logos/Houston Rockets.jpg
+71,HOU,texas,Houston Rockets,2019,53,29,1.83,24,115.5,110.7,4.8,5.1,0.3,W,O,logos/Houston Rockets.jpg
+101,HOU,texas,Houston Rockets,2018,65,17,3.82,48,114.7,106.1,8.6,6.1,-2.5,W,O,logos/Houston Rockets.jpg
+131,HOU,texas,Houston Rockets,2017,55,27,2.04,28,114.7,109,5.7,5.9,0.2,W,O,logos/Houston Rockets.jpg
+161,HOU,texas,Houston Rockets,2016,41,41,1,0,108.3,108.1,0.2,1.9,1.7,W,S,logos/Houston Rockets.jpg
+191,HOU,texas,Houston Rockets,2015,56,26,2.15,30,107,103.4,3.6,1.4,-2.2,W,O,logos/Houston Rockets.jpg
+221,HOU,texas,Houston Rockets,2014,54,28,1.93,26,111,106.3,4.7,4.3,-0.4,W,O,logos/Houston Rockets.jpg
+251,HOU,texas,Houston Rockets,2013,45,37,1.22,8,109.7,106.1,3.6,3.8,0.2,W,O,logos/Houston Rockets.jpg
+281,HOU,texas,Houston Rockets,2012,42,24,1.75,18,105.5,105.2,0.3,0.9,0.6,W,S,logos/Houston Rockets.jpg
+311,HOU,texas,Houston Rockets,2011,37,45,0.82,-8,111.3,109,2.3,3.7,1.7,W,S,logos/Houston Rockets.jpg
+10,GSW,california,Golden State Warriors,2021,39,33,1.18,6,111.1,110.1,1,-1.2,-2.2,W,S,logos/Golden State Warriors.jpg
+40,GSW,california,Golden State Warriors,2020,15,50,0.3,-35,105.2,113.8,-8.6,-5.4,3.2,W,D,logos/Golden State Warriors.jpg
+70,GSW,california,Golden State Warriors,2019,57,25,2.28,32,115.9,109.5,6.4,5.5,-0.9,W,O,logos/Golden State Warriors.jpg
+100,GSW,california,Golden State Warriors,2018,58,24,2.42,34,113.6,107.6,6,5,-1,W,O,logos/Golden State Warriors.jpg
+130,GSW,california,Golden State Warriors,2017,67,15,4.47,52,115.6,104,11.6,6.8,-4.8,W,O,logos/Golden State Warriors.jpg
+160,GSW,california,Golden State Warriors,2016,73,9,8.11,64,114.5,103.8,10.7,8.1,-2.6,W,O,logos/Golden State Warriors.jpg
+190,GSW,california,Golden State Warriors,2015,67,15,4.47,52,111.6,101.4,10.2,6,-4.2,W,O,logos/Golden State Warriors.jpg
+220,GSW,california,Golden State Warriors,2014,51,31,1.65,20,107.5,102.6,4.9,0.8,-4.1,W,O,logos/Golden State Warriors.jpg
+250,GSW,california,Golden State Warriors,2013,47,35,1.34,12,106.4,105.5,0.9,0.5,-0.4,W,S,logos/Golden State Warriors.jpg
+280,GSW,california,Golden State Warriors,2012,34,32,1.06,2,105.4,109.1,-3.7,0.8,4.5,W,O,logos/Golden State Warriors.jpg
+310,GSW,california,Golden State Warriors,2011,43,39,1.1,4,108.2,110.7,-2.5,0.6,3.4,W,D,logos/Golden State Warriors.jpg
+9,DET,michigan,Detroit Pistons,2021,20,52,0.38,-32,108,112.5,-4.5,-4.3,0.2,E,D,logos/Detroit Pistons.jpg
+39,DET,michigan,Detroit Pistons,2020,20,46,0.43,-26,109,112.7,-3.7,-1.6,2.1,E,D,logos/Detroit Pistons.jpg
+69,DET,michigan,Detroit Pistons,2019,41,41,1,0,109,109.2,-0.2,-1.4,-1.2,E,S,logos/Detroit Pistons.jpg
+99,DET,michigan,Detroit Pistons,2018,39,43,0.91,-4,107.2,107.3,-0.1,-1.4,-1.3,E,S,logos/Detroit Pistons.jpg
+129,DET,michigan,Detroit Pistons,2017,37,45,0.82,-8,106,107.1,-1.1,-2.8,-1.7,E,S,logos/Detroit Pistons.jpg
+159,DET,michigan,Detroit Pistons,2016,44,38,1.16,6,106.1,105.5,0.6,-0.3,-0.9,E,S,logos/Detroit Pistons.jpg
+189,DET,michigan,Detroit Pistons,2015,32,50,0.64,-18,105.3,106.4,-1.1,-0.3,0.8,E,S,logos/Detroit Pistons.jpg
+219,DET,michigan,Detroit Pistons,2014,29,53,0.55,-24,105.9,109.7,-3.8,-0.8,3,E,D,logos/Detroit Pistons.jpg
+249,DET,michigan,Detroit Pistons,2013,29,53,0.55,-24,103.8,108.1,-4.3,-2.1,2.2,E,D,logos/Detroit Pistons.jpg
+279,DET,michigan,Detroit Pistons,2012,23,43,0.53,-20,101,106.3,-5.3,-3.6,1.7,E,O,logos/Detroit Pistons.jpg
+309,DET,michigan,Detroit Pistons,2011,36,46,0.78,-10,107.7,111.7,-4,0.1,4.4,E,D,logos/Detroit Pistons.jpg
+8,DEN,colorado,Denver Nuggets,2021,47,25,1.88,22,117.1,112.1,5,4.8,-0.2,W,O,logos/Denver Nuggets.jpg
+38,DEN,colorado,Denver Nuggets,2020,46,27,1.7,19,113.1,111,2.1,2.5,0.4,W,S,logos/Denver Nuggets.jpg
+68,DEN,colorado,Denver Nuggets,2019,54,28,1.93,26,113,108.9,4.1,2.6,-1.5,W,O,logos/Denver Nuggets.jpg
+98,DEN,colorado,Denver Nuggets,2018,46,36,1.28,10,112.5,111,1.5,3.9,2.4,W,S,logos/Denver Nuggets.jpg
+128,DEN,colorado,Denver Nuggets,2017,40,42,0.95,-2,113.2,112.7,0.5,4.4,3.9,W,S,logos/Denver Nuggets.jpg
+158,DEN,colorado,Denver Nuggets,2016,33,49,0.67,-16,105.6,108.9,-3.3,-0.8,2.5,W,D,logos/Denver Nuggets.jpg
+188,DEN,colorado,Denver Nuggets,2015,30,52,0.58,-22,104.5,108.2,-3.7,-1.1,2.6,W,D,logos/Denver Nuggets.jpg
+218,DEN,colorado,Denver Nuggets,2014,36,46,0.78,-10,106,108.2,-2.2,-0.7,1.5,W,S,logos/Denver Nuggets.jpg
+248,DEN,colorado,Denver Nuggets,2013,57,25,2.28,32,110.4,105.1,5.3,4.5,-0.8,W,O,logos/Denver Nuggets.jpg
+278,DEN,colorado,Denver Nuggets,2012,25,41,0.61,-16,109.2,106.2,3,4.6,1.6,W,O,logos/Denver Nuggets.jpg
+308,DEN,colorado,Denver Nuggets,2011,30,52,0.58,-22,112.3,107.3,5,4.7,0,W,O,logos/Denver Nuggets.jpg
+7,DAL,texas,Dallas Mavericks,2021,42,30,1.4,12,115.4,113,2.4,3.1,0.7,W,O,logos/Dallas Mavericks.jpg
+37,DAL,texas,Dallas Mavericks,2020,43,32,1.34,11,116.7,111.7,5,6.1,1.1,W,O,logos/Dallas Mavericks.jpg
+67,DAL,texas,Dallas Mavericks,2019,33,49,0.67,-16,109.4,110.7,-1.3,-1,0.3,W,D,logos/Dallas Mavericks.jpg
+97,DAL,texas,Dallas Mavericks,2018,24,58,0.41,-34,106.3,109.5,-3.2,-2.3,0.9,W,D,logos/Dallas Mavericks.jpg
+127,DAL,texas,Dallas Mavericks,2017,33,49,0.67,-16,105.6,108.8,-3.2,-3.2,0,W,D,logos/Dallas Mavericks.jpg
+157,DAL,texas,Dallas Mavericks,2016,42,40,1.05,2,106.7,107,-0.3,0.3,0.6,W,S,logos/Dallas Mavericks.jpg
+187,DAL,texas,Dallas Mavericks,2015,50,32,1.56,18,109.5,106.4,3.1,3.9,0.8,W,S,logos/Dallas Mavericks.jpg
+217,DAL,texas,Dallas Mavericks,2014,49,33,1.48,16,111.2,108.7,2.5,4.5,2,W,S,logos/Dallas Mavericks.jpg
+247,DAL,texas,Dallas Mavericks,2013,41,41,1,0,105.9,106.5,-0.6,0,0.6,W,S,logos/Dallas Mavericks.jpg
+277,DAL,texas,Dallas Mavericks,2012,38,28,1.36,10,103.3,102.3,1,-1.3,-2.3,W,D,logos/Dallas Mavericks.jpg
+307,DAL,texas,Dallas Mavericks,2011,50,32,1.56,18,109.7,105,4.7,2.1,-2.3,W,O,logos/Dallas Mavericks.jpg
+6,CLE,ohio,Cleveland Cavaliers,2021,22,50,0.44,-28,105.8,114.4,-8.6,-6.5,2.1,E,D,"""logos/Cleveland Cavaliers.jpg"""
+36,CLE,ohio,Cleveland Cavaliers,2020,19,46,0.41,-27,107.5,115.4,-7.9,-3.1,4.8,E,D,logos/Cleveland Cavaliers.jpg
+66,CLE,ohio,Cleveland Cavaliers,2019,19,63,0.3,-44,107.7,117.6,-9.9,-2.7,7.2,E,D,logos/Cleveland Cavaliers.jpg
+96,CLE,ohio,Cleveland Cavaliers,2018,50,32,1.56,18,112.9,111.9,1,4.3,3.3,E,S,logos/Cleveland Cavaliers.jpg
+126,CLE,ohio,Cleveland Cavaliers,2017,51,31,1.65,20,113.6,110.3,3.3,4.8,1.5,E,O,logos/Cleveland Cavaliers.jpg
+156,CLE,ohio,Cleveland Cavaliers,2016,57,25,2.28,32,110.9,104.5,6.4,4.5,-1.9,E,O,logos/Cleveland Cavaliers.jpg
+186,CLE,ohio,Cleveland Cavaliers,2015,53,29,1.83,24,111.1,106.3,4.8,5.5,0.7,E,O,logos/Cleveland Cavaliers.jpg
+216,CLE,ohio,Cleveland Cavaliers,2014,33,49,0.67,-16,104.2,107.7,-3.5,-2.5,1,E,D,logos/Cleveland Cavaliers.jpg
+246,CLE,ohio,Cleveland Cavaliers,2013,24,58,0.41,-34,104.3,109.4,-5.1,-1.6,3.5,E,D,logos/Cleveland Cavaliers.jpg
+276,CLE,ohio,Cleveland Cavaliers,2012,36,30,1.2,6,101.1,108.9,-7.8,-3.5,4.3,E,O,logos/Cleveland Cavaliers.jpg
+306,CLE,ohio,Cleveland Cavaliers,2011,57,25,2.28,32,102.2,111.8,-9.6,-5.4,4.5,E,D,logos/Cleveland Cavaliers.jpg
+5,CHI,illinois,Chicago Bulls,2021,31,41,0.76,-10,111.1,112,-0.9,-1.2,-0.3,E,S,"""logos/Chicago Bulls.jpg"""
+35,CHI,illinois,Chicago Bulls,2020,22,43,0.51,-21,106.7,109.8,-3.1,-3.9,-0.8,E,D,logos/Chicago Bulls.jpg
+65,CHI,illinois,Chicago Bulls,2019,22,60,0.37,-38,104.8,113.2,-8.4,-5.6,2.8,E,D,logos/Chicago Bulls.jpg
+95,CHI,illinois,Chicago Bulls,2018,27,55,0.49,-28,103.8,110.9,-7.1,-4.8,2.3,E,D,logos/Chicago Bulls.jpg
+125,CHI,illinois,Chicago Bulls,2017,41,41,1,0,107.4,107,0.4,-1.4,-1.8,E,S,logos/Chicago Bulls.jpg
+155,CHI,illinois,Chicago Bulls,2016,42,40,1.05,2,105,106.5,-1.5,-1.4,0.1,E,S,logos/Chicago Bulls.jpg
+185,CHI,illinois,Chicago Bulls,2015,50,32,1.56,18,107.5,104.3,3.2,1.9,-1.3,E,O,logos/Chicago Bulls.jpg
+215,CHI,illinois,Chicago Bulls,2014,48,34,1.41,14,102.5,100.5,2,-4.2,-6.2,E,S,logos/Chicago Bulls.jpg
+245,CHI,illinois,Chicago Bulls,2013,45,37,1.22,8,103.5,103.2,0.3,-2.4,-2.7,E,S,logos/Chicago Bulls.jpg
+275,CHI,illinois,Chicago Bulls,2012,21,45,0.47,-24,107.4,98.3,9.1,2.8,-6.3,E,D,logos/Chicago Bulls.jpg
+305,CHI,illinois,Chicago Bulls,2011,19,63,0.3,-44,108.3,100.3,8,0.7,-7,E,O,logos/Chicago Bulls.jpg
+4,CHA,north carolina,Charlotte Hornets,2021,33,39,0.85,-6,110.9,112.8,-1.9,-1.4,0.5,E,D,"""logos/Charlotte Hornets.jpg"""
+34,CHA,north carolina,Charlotte Hornets,2020,23,42,0.55,-19,106.3,113.3,-7,-4.3,2.7,E,D,logos/Charlotte Hornets.jpg
+64,CHA,north carolina,Charlotte Hornets,2019,39,43,0.91,-4,111.4,112.5,-1.1,1,2.1,E,S,logos/Charlotte Hornets.jpg
+94,CHA,north carolina,Charlotte Hornets,2018,36,46,0.78,-10,109.4,109.1,0.3,0.8,0.5,E,S,logos/Charlotte Hornets.jpg
+124,CHA,north carolina,Charlotte Hornets,2017,36,46,0.78,-10,108.8,108.6,0.2,0,-0.2,E,S,logos/Charlotte Hornets.jpg
+154,CHA,north carolina,Charlotte Hornets,2016,48,34,1.41,14,107.1,104.3,2.8,0.7,-2.1,E,O,logos/Charlotte Hornets.jpg
+184,CHA,north carolina,Charlotte Hornets,2015,33,49,0.67,-16,100.1,103.5,-3.4,-5.5,-2.1,E,D,logos/Charlotte Hornets.jpg
+214,CHA,north carolina,Charlotte Hornets,2014,43,39,1.1,4,103.6,103.8,-0.2,-3.1,-2.9,E,S,logos/Charlotte Hornets.jpg
+244,CHA,north carolina,Charlotte Hornets,2013,21,61,0.34,-40,101.5,111.5,-10,-4.4,5.6,E,D,logos/Charlotte Hornets.jpg
+274,CHA,north carolina,Charlotte Hornets,2012,50,16,3.13,34,95.2,110.4,-15.2,-9.4,5.8,E,O,logos/Charlotte Hornets.jpg
+304,CHA,north carolina,Charlotte Hornets,2011,62,20,3.1,42,103.4,107.8,-4.4,-4.2,0.5,E,D,logos/Charlotte Hornets.jpg
+3,BRK,new york,Brooklyn Nets,2021,48,24,2,24,118.3,113.8,4.5,6,1.5,E,O,"""logos/Brooklyn Nets.jpg"""
+33,BRK,new york,Brooklyn Nets,2020,35,37,0.95,-2,108.9,109.5,-0.6,-1.7,-1.1,E,S,logos/Brooklyn Nets.jpg
+63,BRK,new york,Brooklyn Nets,2019,42,40,1.05,2,109.6,109.7,-0.1,-0.8,-0.7,E,S,logos/Brooklyn Nets.jpg
+93,BRK,new york,Brooklyn Nets,2018,28,54,0.52,-26,106.9,110.6,-3.7,-1.7,2,E,D,logos/Brooklyn Nets.jpg
+123,BRK,new york,Brooklyn Nets,2017,20,62,0.32,-42,104.1,110.7,-6.6,-4.7,1.9,E,D,logos/Brooklyn Nets.jpg
+153,BRK,new york,Brooklyn Nets,2016,21,61,0.34,-40,103.2,110.9,-7.7,-3.2,4.5,E,D,logos/Brooklyn Nets.jpg
+183,BRK,new york,Brooklyn Nets,2015,38,44,0.86,-6,104.4,107.4,-3,-1.2,1.8,E,D,logos/Brooklyn Nets.jpg
+213,BRK,new york,Brooklyn Nets,2014,44,38,1.16,6,106.7,107.7,-1,0,1,E,S,logos/Brooklyn Nets.jpg
+243,BRK,new york,Brooklyn Nets,2013,49,33,1.48,16,108.2,106.2,2,2.3,0.3,E,O,logos/Brooklyn Nets.jpg
+273,BRK,new york,Brooklyn Nets,2012,7,59,0.12,-52,102.9,109.6,-6.7,-1.7,5,E,O,logos/Brooklyn Nets.jpg
+303,BRK,new york,Brooklyn Nets,2011,34,48,0.71,-14,103.1,109.9,-6.8,-4.5,2.6,E,D,logos/Brooklyn Nets.jpg
+2,BOS,massachusetts,Boston Celtics,2021,36,36,1,0,114,112.5,1.5,1.7,0.2,E,S,"""logos/Boston Celtics.jpg"""
+32,BOS,massachusetts,Boston Celtics,2020,48,24,2,24,113.3,107,6.3,2.7,-3.6,E,O,logos/Boston Celtics.jpg
+62,BOS,massachusetts,Boston Celtics,2019,49,33,1.48,16,112.2,107.8,4.4,1.8,-2.6,E,O,logos/Boston Celtics.jpg
+92,BOS,massachusetts,Boston Celtics,2018,55,27,2.04,28,107.6,103.9,3.7,-1,-4.7,E,O,logos/Boston Celtics.jpg
+122,BOS,massachusetts,Boston Celtics,2017,53,29,1.83,24,111.2,108.4,2.8,2.4,-0.4,E,O,logos/Boston Celtics.jpg
+152,BOS,massachusetts,Boston Celtics,2016,48,34,1.41,14,106.8,103.6,3.2,0.4,-2.8,E,O,logos/Boston Celtics.jpg
+182,BOS,massachusetts,Boston Celtics,2015,40,42,0.95,-2,104.7,104.5,0.2,-0.9,-1.1,E,S,logos/Boston Celtics.jpg
+212,BOS,massachusetts,Boston Celtics,2014,25,57,0.44,-32,102.9,107.7,-4.8,-3.8,1,E,D,logos/Boston Celtics.jpg
+242,BOS,massachusetts,Boston Celtics,2013,41,40,1.03,1,103.1,103.3,-0.2,-2.8,-2.6,E,S,logos/Boston Celtics.jpg
+272,BOS,massachusetts,Boston Celtics,2012,39,27,1.44,12,101,98.2,2.8,-3.6,-6.4,E,D,logos/Boston Celtics.jpg
+302,BOS,massachusetts,Boston Celtics,2011,56,26,2.15,30,106.2,100.3,5.9,-1.4,-7,E,O,logos/Boston Celtics.jpg
+1,ATL,georgia,Atlanta Hawks,2021,41,31,1.32,10,115.7,113.3,2.4,3.4,1,E,O,"""logos/Atlanta Hawks.jpg"""
+31,ATL,georgia,Atlanta Hawks,2020,20,47,0.43,-27,107.2,114.8,-7.6,-3.4,4.2,E,D,logos/Atlanta Hawks.jpg
+61,ATL,georgia,Atlanta Hawks,2019,29,53,0.55,-24,108.1,113.9,-5.8,-2.3,3.5,E,D,logos/Atlanta Hawks.jpg
+91,ATL,georgia,Atlanta Hawks,2018,24,58,0.41,-34,105,110.6,-5.6,-3.6,2,E,D,logos/Atlanta Hawks.jpg
+121,ATL,georgia,Atlanta Hawks,2017,43,39,1.1,4,104.9,105.7,-0.8,-3.9,-3.1,E,S,logos/Atlanta Hawks.jpg
+151,ATL,georgia,Atlanta Hawks,2016,48,34,1.41,14,105.1,101.4,3.7,-1.3,-5,E,O,logos/Atlanta Hawks.jpg
+181,ATL,georgia,Atlanta Hawks,2015,60,22,2.73,38,108.9,103.1,5.8,3.3,-2.5,E,O,logos/Atlanta Hawks.jpg
+211,ATL,georgia,Atlanta Hawks,2014,38,44,0.86,-6,105.9,106.4,-0.5,-0.8,-0.3,E,S,logos/Atlanta Hawks.jpg
+241,ATL,georgia,Atlanta Hawks,2013,44,38,1.16,6,104.8,104.4,0.4,-1.1,-1.5,E,S,logos/Atlanta Hawks.jpg
+271,ATL,georgia,Atlanta Hawks,2012,40,26,1.54,14,104.9,101.2,3.7,0.3,-3.4,E,D,logos/Atlanta Hawks.jpg
+301,ATL,georgia,Atlanta Hawks,2011,44,38,1.16,6,106.1,107,-0.9,-1.5,-0.3,E,S,logos/Atlanta Hawks.jpg
